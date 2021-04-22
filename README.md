@@ -14,7 +14,7 @@
 const tanvirMahin = {
   pronouns: "he" | "his",
   code: [Javascript, HTML, CSS, PHP, Python],
-  web_technologies: [React, Node.js, AWS, Laravel, Django, MERN stack, Gatsby, Next.js, Git, Github],
+  web_technologies: [React, Node js, Aws, Laravel, Django, Mern stack, Gatsby, Next.js, Git, Github],
   skills: [Web Development, Graphics Design, Audio Mastering, Video Editing],
   extra_softwere_skills: ["Adobe Photoshop", "Adobe Premieer Pro", "Adobe Illustrator", "Adobe After Effect"],
   communities: 
