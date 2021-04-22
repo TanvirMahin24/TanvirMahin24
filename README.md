@@ -17,10 +17,14 @@ const tanvirMahin = {
   web_technologies: [React, Node.js, AWS, Laravel, Django, MERN stack, Gatsby, Next.js, Git, Github],
   skills: [Web Development, Graphics Design, Audio Mastering, Video Editing],
   extra_softwere_skills: ["Adobe Photoshop", "Adobe Premieer Pro", "Adobe Illustrator", "Adobe After Effect"],
-  techCommunities: {
-                        dev: "RUET Career Forum",
-                        graphics_designer: "Hult Prize RUET",
-                        co_founder: "Jumbak"
-                      }
+  communities: 
+  {
+     lead_developer: "Pioneer Alpha",
+     web_developer: "Code Studio",
+     dev: "RUET Career Forum",
+     graphics_designer: "Hult Prize RUET",
+     co_founder: "Jumbak",
+     founder: "Bytech"
+   }
 }
 ```
