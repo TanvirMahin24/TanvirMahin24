@@ -14,13 +14,14 @@
 ```javascript
 const tanvirMahin = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, PHP, Python],
-  web_technologies: [React, Node js, Aws, Laravel, Django, Mern stack, Gatsby, Next.js, Git, Github],
-  skills: [Web Development, Graphics Design, Audio Mastering, Video Editing],
-  extra_softwere_skills: ["Adobe Photoshop", "Adobe Premieer Pro", "Adobe Illustrator", "Adobe After Effect"],
+  code: [Javascript, HTML, CSS, PHP, Python, Dart],
+  web_technologies: [React, Node js, Aws, Flutter, Laravel, Django, Mern stack, Gatsby, Next.js, Git, Github],
+  skills: [Web Development, Flutter App Development, Graphics Design, Audio Mastering, Video Editing],
+  extra_softwere_skills: ["Adobe Photoshop", "Adobe Premieer Pro", "Adobe Illustrator", "Adobe After Effect", "Adobe Audition"],
   communities: 
   {
-     lead_developer: "Pioneer Alpha",
+     web_developer: "Qubitech Solutions",
+     ex_lead_developer: "Pioneer Alpha",
      web_developer: "Code Studio",
      dev: "RUET Career Forum",
      graphics_designer: "Hult Prize RUET",
