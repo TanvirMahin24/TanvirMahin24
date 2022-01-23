@@ -14,7 +14,7 @@
 ```javascript
 const tanvirMahin = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, PHP, Python, Dart],
+  code: [Javascript,Nodejs, HTML, CSS, PHP, Python, Dart],
   web_technologies: [React, Node js, Aws, Flutter, Laravel, Django, Mern stack, Gatsby, Next.js, Git, Github],
   skills: [Web Development, Flutter App Development, Graphics Design, Audio Mastering, Video Editing],
   extra_softwere_skills: ["Adobe Photoshop", "Adobe Premieer Pro", "Adobe Illustrator", "Adobe After Effect", "Adobe Audition"],
