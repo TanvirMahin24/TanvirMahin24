@@ -25,8 +25,7 @@ const tanvirMahin = {
      ex_lead_developer: "Pioneer Alpha",
      ex_web_developer: "Code Studio",
      mentor: "RUET Career Forum devTeam",
-     it_director: "Hult Prize RUET",
-     co_founder: "Jumbak",
+     it_director: "Hult Prize RUET"
    }
 }
 ```
