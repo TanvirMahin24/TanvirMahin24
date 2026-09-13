@@ -116,21 +116,28 @@
 
 | ⬢ | PAYLOAD | OBJECTIVE | SYSTEMS | STATUS |
 |:-:|:--------|:----------|:--------|:------:|
-| 🛰️ | **[SSH Ache](https://sshache.com)** | Local-first, open-source SSH client — no cloud, no lock-in | `Flutter` `Rust` | `🟢 LIVE` |
+| 🛰️ | **[SSH Ache](https://sshache.com)** | Local-first SSH client — real terminal, SFTP, port forwarding, AI agent bridge. No cloud, no account, no lock-in. | `Desktop` `Apache-2.0` | `🟢 LIVE` |
+| 🌍 | **[English Moja](https://www.englishmojabd.com/)** | Bangladesh's e-learning platform — 1,000+ courses for admission, HSC, job prep & spoken English. 1M+ registered learners. | `Web` `Android` | `🟢 LIVE` |
 | 🚀 | **[winbox-react](https://github.com/TanvirMahin24/winbox-react)** | React wrapper for Winbox.js — windowed UI for the web | `JavaScript` | `🟢 SHIPPED` |
-| 🛸 | **[basic-django-langchain](https://github.com/TanvirMahin24/basic-django-langchain)** | LLM pipelines wired into Django REST | `Python` `LangChain` | `🟡 ORBIT` |
-| 🌌 | **[DevAdda](https://github.com/TanvirMahin24/DevAdda)** | MERN community platform for developers | `MERN` | `🟢 SHIPPED` |
-| 🪐 | **[Portfolio-Gatsby](https://github.com/TanvirMahin24/Portfolio-Gatsby)** | Static, blazing-fast portfolio on Gatsby | `Gatsby` | `🟢 SHIPPED` |
 
 </div>
 
 <div align="center">
 
+<a href="https://sshache.com">
+  <img src="https://img.shields.io/badge/⬡_SSH_Ache-macOS_·_Windows_·_Linux-7C3AED?style=for-the-badge&labelColor=0D1117" />
+</a>
+<a href="https://github.com/TanvirMahin24/homebrew-sshache">
+  <img src="https://img.shields.io/badge/brew_install-sshache-FBB040?style=for-the-badge&logo=homebrew&logoColor=white&labelColor=0D1117" />
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/TanvirMahin24/winbox-react">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanvirMahin24&repo=winbox-react&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&border_color=1F2937&hide_border=false" />
 </a>
-<a href="https://github.com/TanvirMahin24/basic-django-langchain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanvirMahin24&repo=basic-django-langchain&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&border_color=1F2937&hide_border=false" />
+<a href="https://github.com/TanvirMahin24/homebrew-sshache">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanvirMahin24&repo=homebrew-sshache&theme=tokyonight&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&border_color=1F2937&hide_border=false" />
 </a>
 
 </div>
